@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="alu_4bit">
+		<CBX_INST_ENTRY INSTANCE_NAME="|board_alu_4bit|alu_4bit:ALU|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_98m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|board_alu_4bit|alu_4bit:ALU|lpm_mult:Mult0" CBX_FILE_NAME="mult_a7t.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
